@@ -55,4 +55,4 @@ Click on … to select 10ES.ino.bootloader.bin file directory location. Check ma
 
 Click on … to select 10ES.ino.partitions.bin file directory location. Check mark in the box on the left. In the @ box, put 0x8000
 
-SPI speed is 40MHz, SPI mode is DIO. Check mark in the box labeled “DoNotChgBin”. My port settings are COM4, baud 115200. Connect the M5 Cardputer to your PC using a USB C cable. Click on START to burn the firmware.
+SPI speed is 40MHz, SPI mode is DIO. Check mark in the box labeled “DoNotChgBin”. My port settings are COM4, baud 115200. Connect the M5 Paper S3 to your PC using a USB C cable. Click on START to burn the firmware.
